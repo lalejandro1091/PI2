@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/res/merged/debug/menu/menu_principal.xml",
+        "source": "/home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/res/menu/menu_principal.xml"
+    },
+    {
+        "merged": "/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/res/merged/debug/menu/menu_login.xml",
+        "source": "/home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/res/menu/menu_login.xml"
+    },
+    {
+        "merged": "/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/res/merged/debug/menu/menu_splash.xml",
+        "source": "/home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/res/menu/menu_splash.xml"
+    },
+    {
+        "merged": "/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/res/merged/debug/menu/menu_puertas.xml",
+        "source": "/home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/res/menu/menu_puertas.xml"
+    },
+    {
+        "merged": "/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/res/merged/debug/menu/menu_invitar.xml",
+        "source": "/home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/res/menu/menu_invitar.xml"
+    },
+    {
+        "merged": "/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/res/merged/debug/menu/menu_registrarse.xml",
+        "source": "/home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/res/menu/menu_registrarse.xml"
+    }
+]

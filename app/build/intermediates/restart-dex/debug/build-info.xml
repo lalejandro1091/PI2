@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="10968090676078" >
+
+    <task
+        name="javac"
+        duration="2273" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="302" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="10968090676078" >
+        <artifact
+            location="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
