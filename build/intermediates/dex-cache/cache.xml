@@ -2,67 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/home/alejandro/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_1e059998ee8562235d2822d79bc2708e3c530c2f/classes.dex" />
-    </item>
-    <item
-        jar="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="172955178e3b1ad7bc0fa1623066e301fcbdd050">
-        <dex dex="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f36b1ed2deca10080cdbc5b3152fa12d035d30f/classes.dex" />
-    </item>
-    <item
-        jar="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_1a9e70209b06904694efb1ead628cf100e55a331/classes.dex" />
-    </item>
-    <item
-        jar="/home/alejandro/AndroidStudioProjects/SmatLock/app/libs/GenAsync.1.2.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="6b4cdf77310a598314fd99f563780b3480bbf5d1">
-        <dex dex="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/transforms/dex/debug/folders/1000/2/GenAsync.1.2_6a87290891d2867d5af13c4343cd8aa82046dc21/classes.dex" />
-    </item>
-    <item
-        jar="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_37c227626f35cecbb008022067f959e8c9ab17c2/classes.dex" />
-    </item>
-    <item
-        jar="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
-        jumboMode="true"
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
         revision="23.0.3"
         sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_e8f172cf5af594fdada74e8aac7a5ef60e9d4765/classes.dex" />
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0-d185e370432b7e98f36ef2e67a86ecc84e57f3c8.jar" />
     </item>
     <item
-        jar="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="f89c0bf2723dd186e654ab5d266cd904c3339423">
-        <dex dex="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47db00c5d97b5ffb058aa27d9f800af4934a023d/classes.dex" />
-    </item>
-    <item
-        jar="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_5ef192fd70ce86c647bf3e762588d125136414a4/classes.dex" />
-    </item>
-    <item
-        jar="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
         revision="23.0.3"
         sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_55e2871092529f5432c515533c914b95aa8c70da/classes.dex" />
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/classes-91b71b0171863420b66834aecaccaf07578c0de6.jar" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/classes-3d87aad5af09bec2c56da8127243d38e19e235cc.jar" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/libs/GenAsync.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6b4cdf77310a598314fd99f563780b3480bbf5d1">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/GenAsync.1.2-d4783ab31d2eaf8ed9ade6aa55b8833154345688.jar" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/classes-d1f69fc45f101e0f464e42f5f3b08fa5bc41fea2.jar" />
+    </item>
+    <item
+        jar="/home/chiruza/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0-279c8557eb28e0b9bec323a94b76188fe78de873.jar" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/classes-d07c6ee790a1db77fa158a2f29658ff021fdfc29.jar" />
     </item>
 
 </items>

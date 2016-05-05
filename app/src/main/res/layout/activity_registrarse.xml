@@ -16,9 +16,10 @@
         <EditText
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/editText"
+            android:id="@+id/etnamei"
             android:hint="Nombre"
             android:layout_gravity="center" />
+
     </LinearLayout>
 
     <LinearLayout
@@ -30,8 +31,8 @@
         <EditText
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/editText2"
-            android:hint="Apellido"
+            android:id="@+id/etlastname1"
+            android:hint="Primer apellido"
             android:layout_gravity="center" />
     </LinearLayout>
 
@@ -42,9 +43,23 @@
         android:layout_weight="1">
 
         <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etlastname2"
+            android:layout_gravity="center"
+            android:hint="Segundo apellido" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <EditText
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/editText3"
+            android:id="@+id/etuseri"
             android:hint="Usuario"
             android:layout_gravity="center" />
     </LinearLayout>
@@ -56,11 +71,29 @@
         android:layout_weight="1">
 
         <EditText
-            android:layout_width="fill_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/editText4"
-            android:hint="Contraseña"
-            android:layout_gravity="center" />
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/etpass1"
+            android:layout_weight="1"
+            android:hint="Repetir contraseña" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/etpass2"
+            android:layout_weight="1"
+            android:hint="Repetir contraseña" />
     </LinearLayout>
 
     <LinearLayout
@@ -72,7 +105,7 @@
         <EditText
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/editText5"
+            android:id="@+id/etdescripcion"
             android:hint="Quien es? Ej. amigo, primo"
             android:layout_gravity="center" />
     </LinearLayout>

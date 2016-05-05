@@ -1,98 +1,85 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from AndroidManifest.xml:2:1
 	package
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:3:5-45
-		INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
 	android:versionName
-		INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
 	xmlns:android
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from AndroidManifest.xml:2:11
 	android:versionCode
-		INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:4:5
+	android:name
+		ADDED from AndroidManifest.xml:4:22
 application
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:5:5-27:19
-MERGED from [com.android.support:appcompat-v7:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+ADDED from AndroidManifest.xml:5:5
+MERGED from com.android.support:appcompat-v7:23.3.0:25:5
+MERGED from com.android.support:support-vector-drawable:23.3.0:7:5
+MERGED from com.android.support:support-v4:23.3.0:22:5
+MERGED from com.android.support:animated-vector-drawable:23.3.0:7:5
+MERGED from com.android.support:support-vector-drawable:23.3.0:7:5
+MERGED from com.android.support:support-v4:23.3.0:22:5
+MERGED from com.android.support:support-v4:23.3.0:22:5
 	android:label
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from AndroidManifest.xml:8:9
 	android:supportsRtl
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from AndroidManifest.xml:9:9
 	android:allowBackup
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from AndroidManifest.xml:6:9
 	android:icon
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from AndroidManifest.xml:7:9
 	android:theme
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:10:9-40
-activity#com.example.alejandro.smatlock.Splash
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:11:9-17:20
+		ADDED from AndroidManifest.xml:10:9
+activity#com.example.chiruza.smartlock.Splash
+ADDED from AndroidManifest.xml:11:9
 	android:name
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:11:19-41
+		ADDED from AndroidManifest.xml:11:19
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:12:13-16:29
+ADDED from AndroidManifest.xml:12:13
 action#android.intent.action.MAIN
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:13:17-69
+ADDED from AndroidManifest.xml:13:17
 	android:name
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:13:25-66
+		ADDED from AndroidManifest.xml:13:25
 category#android.intent.category.LAUNCHER
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from AndroidManifest.xml:15:17
 	android:name
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:15:27-74
-activity#com.example.alejandro.smatlock.Login
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:18:9-43
+		ADDED from AndroidManifest.xml:15:27
+activity#com.example.chiruza.smartlock.Login
+ADDED from AndroidManifest.xml:18:9
 	android:name
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:18:19-40
-activity#com.example.alejandro.smatlock.Principal
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:19:9-47
+		ADDED from AndroidManifest.xml:18:19
+activity#com.example.chiruza.smartlock.Principal
+ADDED from AndroidManifest.xml:19:9
 	android:name
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:19:19-44
-activity#com.example.alejandro.smatlock.Registrarse
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:20:9-49
+		ADDED from AndroidManifest.xml:19:19
+activity#com.example.chiruza.smartlock.Puertas
+ADDED from AndroidManifest.xml:20:9
 	android:name
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:20:19-46
-activity#com.example.alejandro.smatlock.Puertas
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:21:9-45
+		ADDED from AndroidManifest.xml:20:19
+activity#com.example.chiruza.smartlock.Registrarse
+ADDED from AndroidManifest.xml:21:9
 	android:name
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:21:19-42
-activity#com.example.alejandro.smatlock.Invitar
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:22:9-54
-	android:name
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:22:19-42
-meta-data#com.google.android.gms.version
-ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:24:9-26:69
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:26:13-66
-	android:name
-		ADDED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml:25:13-58
+		ADDED from AndroidManifest.xml:21:19
 uses-sdk
-INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from com.android.support:appcompat-v7:23.3.0:21:5
+MERGED from com.android.support:support-vector-drawable:23.3.0:5:5
+MERGED from com.android.support:support-v4:23.3.0:20:5
+MERGED from com.android.support:animated-vector-drawable:23.3.0:5:5
+MERGED from com.android.support:support-vector-drawable:23.3.0:5:5
+MERGED from com.android.support:support-v4:23.3.0:20:5
+MERGED from com.android.support:support-v4:23.3.0:20:5
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.3.0] /home/alejandro/AndroidStudioProjects/SmatLock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:23:9-75
+		ADDED from com.android.support:appcompat-v7:23.3.0:23:9
 	android:targetSdkVersion
-		INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
 	android:minSdkVersion
-		INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alejandro/AndroidStudioProjects/SmatLock/app/src/main/AndroidManifest.xml
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
