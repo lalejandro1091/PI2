@@ -9,13 +9,6 @@
         <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0-d185e370432b7e98f36ef2e67a86ecc84e57f3c8.jar" />
     </item>
     <item
-        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/classes-91b71b0171863420b66834aecaccaf07578c0de6.jar" />
-    </item>
-    <item
         jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
@@ -23,11 +16,11 @@
         <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/classes-3d87aad5af09bec2c56da8127243d38e19e235cc.jar" />
     </item>
     <item
-        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/libs/GenAsync.1.2.jar"
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="6b4cdf77310a598314fd99f563780b3480bbf5d1">
-        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/GenAsync.1.2-d4783ab31d2eaf8ed9ade6aa55b8833154345688.jar" />
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/classes-91b71b0171863420b66834aecaccaf07578c0de6.jar" />
     </item>
     <item
         jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
@@ -35,6 +28,13 @@
         revision="23.0.3"
         sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
         <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/classes-d1f69fc45f101e0f464e42f5f3b08fa5bc41fea2.jar" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/libs/GenAsync.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6b4cdf77310a598314fd99f563780b3480bbf5d1">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/pi2/SmartLock/app/build/intermediates/pre-dexed/debug/GenAsync.1.2-d4783ab31d2eaf8ed9ade6aa55b8833154345688.jar" />
     </item>
     <item
         jar="/home/chiruza/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"

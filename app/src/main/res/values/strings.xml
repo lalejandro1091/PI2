@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">Smart Lock</string>
-    <string name="R">R</string>
+    <string name="app_name">SmartLock</string>
     <string name="hello_world">Hello world!</string>
     <string name="bienvenido">Bienvenido</string>
     <string name="action_settings">Settings</string>
